@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/*CSS Doc*/
+
+.hidden
+{
+	display: none;
+}
+
+h1
+{
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.box
+{
+	width: 150px;
+	height: 150px;
+	background: red;
+	position: relative;
+	margin: 20px;
+}
